@@ -16,7 +16,7 @@ let package = Package(
         .binaryTarget(
             name: "opencv2",
             url: "https://github.com/LaneTrax/opencv2-spm/releases/download/v1.0.0/opencv2.xcframework.zip",
-            checksum: "0d74e5096bc754adb187f9a273c7cba413650cc66bacb74e0952a3e4e292f388"
+            checksum: "7b3d3b236a8ffafbba4abc9ef55bbb4297b2f760e5ea96d9eecf30118a599cfb"
         )
     ]
 )
